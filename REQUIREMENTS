@@ -5,3 +5,5 @@ pyserial
 tensorflow
 scikit-learn
 pandas
+matplotlib
+joblib
